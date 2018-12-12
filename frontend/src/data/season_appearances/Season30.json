@@ -1,0 +1,3353 @@
+{
+  "data": [],
+  "directed": false,
+  "multigraph": false,
+  "elements": {
+    "nodes": [
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Manjula Nahasapeemapetilon",
+          "value": "Manjula Nahasapeemapetilon",
+          "name": "Manjula Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 25,
+          "id": "Terri Mackleberry",
+          "value": "Terri Mackleberry",
+          "name": "Terri Mackleberry"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 9,
+          "id": "Sarah Wiggum",
+          "value": "Sarah Wiggum",
+          "name": "Sarah Wiggum"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 15,
+          "id": "Gil Gunderson",
+          "value": "Gil Gunderson",
+          "name": "Gil Gunderson"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 22,
+          "id": "Jessica Lovejoy",
+          "value": "Jessica Lovejoy",
+          "name": "Jessica Lovejoy"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Rod Flanders",
+          "value": "Rod Flanders",
+          "name": "Rod Flanders"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 41,
+          "id": "Nelson Muntz",
+          "value": "Nelson Muntz",
+          "name": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 9,
+          "id": "Anger Watkins",
+          "value": "Anger Watkins",
+          "name": "Anger Watkins"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 25,
+          "id": "Sherri Mackleberry",
+          "value": "Sherri Mackleberry",
+          "name": "Sherri Mackleberry"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Waylon Smithers, Jr.",
+          "value": "Waylon Smithers, Jr.",
+          "name": "Waylon Smithers, Jr."
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Todd Flanders",
+          "value": "Todd Flanders",
+          "name": "Todd Flanders"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Gary Chalmers",
+          "value": "Gary Chalmers",
+          "name": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 22,
+          "id": "Allison Taylor",
+          "value": "Allison Taylor",
+          "name": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Seymour Skinner",
+          "value": "Seymour Skinner",
+          "name": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Barney Gumble",
+          "value": "Barney Gumble",
+          "name": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Janey Powell",
+          "value": "Janey Powell",
+          "name": "Janey Powell"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 9,
+          "id": "Grizzly Shawn",
+          "value": "Grizzly Shawn",
+          "name": "Grizzly Shawn"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 16,
+          "id": "Hans Moleman",
+          "value": "Hans Moleman",
+          "name": "Hans Moleman"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Timothy Lovejoy, Jr.",
+          "value": "Timothy Lovejoy, Jr.",
+          "name": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 21,
+          "id": "Lindsey Naegle",
+          "value": "Lindsey Naegle",
+          "name": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 33,
+          "id": "Ralph Wiggum",
+          "value": "Ralph Wiggum",
+          "name": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Eddie Muntz",
+          "value": "Eddie Muntz",
+          "name": "Eddie Muntz"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 5,
+          "id": "Shauna Chalmers",
+          "value": "Shauna Chalmers",
+          "name": "Shauna Chalmers"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 18,
+          "id": "Duffman",
+          "value": "Duffman",
+          "name": "Duffman"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Herman Hermann",
+          "value": "Herman Hermann",
+          "name": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 7,
+          "id": "Morty Szyslak",
+          "value": "Morty Szyslak",
+          "name": "Morty Szyslak"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Gautama Buddha",
+          "value": "Gautama Buddha",
+          "name": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 26,
+          "id": "Apu Nahasapeemapetilon",
+          "value": "Apu Nahasapeemapetilon",
+          "name": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 35,
+          "id": "Patty Bouvier",
+          "value": "Patty Bouvier",
+          "name": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Rainier Wolfcastle",
+          "value": "Rainier Wolfcastle",
+          "name": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Kirk Van Houten",
+          "value": "Kirk Van Houten",
+          "name": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 7,
+          "id": "Milo",
+          "value": "Milo",
+          "name": "Milo"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Carl Carlson",
+          "value": "Carl Carlson",
+          "name": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 5,
+          "id": "Doug (nerd)",
+          "value": "Doug (nerd)",
+          "name": "Doug (nerd)"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Lenny Leonard",
+          "value": "Lenny Leonard",
+          "name": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 8,
+          "id": "Kirk Simpson",
+          "value": "Kirk Simpson",
+          "name": "Kirk Simpson"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Julius Hibbert",
+          "value": "Julius Hibbert",
+          "name": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 54,
+          "id": "Homer Simpson",
+          "value": "Homer Simpson",
+          "name": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 8,
+          "id": "Springfield Angry Mob",
+          "value": "Springfield Angry Mob",
+          "name": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 8,
+          "id": "Picard Simpson",
+          "value": "Picard Simpson",
+          "name": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 35,
+          "id": "Selma Bouvier",
+          "value": "Selma Bouvier",
+          "name": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Mrs. Smithers",
+          "value": "Mrs. Smithers",
+          "name": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 9,
+          "id": "Blue-Haired Lawyer",
+          "value": "Blue-Haired Lawyer",
+          "name": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Clancy Wiggum",
+          "value": "Clancy Wiggum",
+          "name": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 8,
+          "id": "Hedonismbot",
+          "value": "Hedonismbot",
+          "name": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 7,
+          "id": "Strawberry",
+          "value": "Strawberry",
+          "name": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Maya",
+          "value": "Maya",
+          "name": "Maya"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "God",
+          "value": "God",
+          "name": "God"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 19,
+          "id": "Robert Terwilliger",
+          "value": "Robert Terwilliger",
+          "name": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 5,
+          "id": "Benjamin (nerd)",
+          "value": "Benjamin (nerd)",
+          "name": "Benjamin (nerd)"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "Milhouse Van Houten",
+          "value": "Milhouse Van Houten",
+          "name": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 4,
+          "id": "Sam (barfly)",
+          "value": "Sam (barfly)",
+          "name": "Sam (barfly)"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 12,
+          "id": "\u00dcter Z\u00f6rker",
+          "value": "\u00dcter Z\u00f6rker",
+          "name": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 5,
+          "id": "Gary (nerd)",
+          "value": "Gary (nerd)",
+          "name": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "bipartite": 0,
+          "degree": 4,
+          "id": "Larry (barfly)",
+          "value": "Larry (barfly)",
+          "name": "Larry (barfly)"
+        }
+      }
+    ],
+    "edges": [
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Eddie Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Maya"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Duffman"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Hans Moleman"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Manjula Nahasapeemapetilon",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Terri Mackleberry",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Waylon Smithers, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Terri Mackleberry",
+          "target": "Sherri Mackleberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Kirk Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Duffman"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Terri Mackleberry",
+          "target": "Jessica Lovejoy"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Grizzly Shawn"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Anger Watkins"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sarah Wiggum",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Gil Gunderson",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Sam (barfly)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Rod Flanders"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Todd Flanders"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Gautama Buddha"
+        }
+      },
+      { "data": { "weight": 1, "source": "Gil Gunderson", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Janey Powell"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Larry (barfly)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gil Gunderson",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Jessica Lovejoy",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Jessica Lovejoy",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Jessica Lovejoy",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": { "weight": 1, "source": "Jessica Lovejoy", "target": "Milo" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Waylon Smithers, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Sherri Mackleberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Morty Szyslak"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Jessica Lovejoy",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Jessica Lovejoy",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Nelson Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Todd Flanders"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Rod Flanders", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Janey Powell"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rod Flanders",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Grizzly Shawn"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Eddie Muntz"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Todd Flanders"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Nelson Muntz",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Hans Moleman"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Sherri Mackleberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": { "weight": 1, "source": "Nelson Muntz", "target": "Duffman" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Nelson Muntz",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 4,
+          "source": "Nelson Muntz",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Nelson Muntz",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Nelson Muntz", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Waylon Smithers, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Nelson Muntz",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      { "data": { "weight": 1, "source": "Nelson Muntz", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Anger Watkins"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Janey Powell"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Nelson Muntz",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Grizzly Shawn"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Anger Watkins",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Sherri Mackleberry",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Waylon Smithers, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Kirk Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Duffman"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sherri Mackleberry",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Gary Chalmers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Waylon Smithers, Jr.",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Todd Flanders", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Janey Powell"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Todd Flanders",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Allison Taylor"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gary Chalmers",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Allison Taylor",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Allison Taylor",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Allison Taylor",
+          "target": "Selma Bouvier"
+        }
+      },
+      { "data": { "weight": 1, "source": "Allison Taylor", "target": "Milo" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Morty Szyslak"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Seymour Skinner"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Allison Taylor",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Barney Gumble"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Seymour Skinner",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Timothy Lovejoy, Jr."
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Barney Gumble",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Janey Powell", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Janey Powell",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Grizzly Shawn",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Hans Moleman",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Eddie Muntz"
+        }
+      },
+      { "data": { "weight": 1, "source": "Hans Moleman", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Lindsey Naegle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Doug (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Shauna Chalmers"
+        }
+      },
+      {
+        "data": { "weight": 1, "source": "Hans Moleman", "target": "Duffman" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Benjamin (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Hans Moleman",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Ralph Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Timothy Lovejoy, Jr.",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Lindsey Naegle",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Sam (barfly)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Eddie Muntz"
+        }
+      },
+      { "data": { "weight": 1, "source": "Lindsey Naegle", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Kirk Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Larry (barfly)"
+        }
+      },
+      {
+        "data": { "weight": 2, "source": "Lindsey Naegle", "target": "Duffman" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lindsey Naegle",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Ralph Wiggum",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Gautama Buddha"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Ralph Wiggum",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Ralph Wiggum",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Ralph Wiggum",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      { "data": { "weight": 1, "source": "Ralph Wiggum", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Ralph Wiggum",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Homer Simpson"
+        }
+      },
+      { "data": { "weight": 1, "source": "Eddie Muntz", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Selma Bouvier"
+        }
+      },
+      { "data": { "weight": 1, "source": "Eddie Muntz", "target": "Duffman" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Herman Hermann"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Eddie Muntz",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Shauna Chalmers",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Shauna Chalmers",
+          "target": "Doug (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Shauna Chalmers",
+          "target": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Shauna Chalmers",
+          "target": "Benjamin (nerd)"
+        }
+      },
+      {
+        "data": { "weight": 2, "source": "Duffman", "target": "Homer Simpson" }
+      },
+      {
+        "data": { "weight": 1, "source": "Duffman", "target": "Patty Bouvier" }
+      },
+      { "data": { "weight": 1, "source": "Duffman", "target": "Maya" } },
+      {
+        "data": { "weight": 1, "source": "Duffman", "target": "Selma Bouvier" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Duffman",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      { "data": { "weight": 1, "source": "Duffman", "target": "Hedonismbot" } },
+      {
+        "data": { "weight": 1, "source": "Duffman", "target": "Picard Simpson" }
+      },
+      {
+        "data": { "weight": 1, "source": "Duffman", "target": "Herman Hermann" }
+      },
+      {
+        "data": { "weight": 1, "source": "Duffman", "target": "Kirk Simpson" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Duffman",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Duffman",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Herman Hermann",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Herman Hermann",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Herman Hermann",
+          "target": "Homer Simpson"
+        }
+      },
+      { "data": { "weight": 1, "source": "Herman Hermann", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Herman Hermann",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Herman Hermann",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Morty Szyslak",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Morty Szyslak",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Morty Szyslak",
+          "target": "Selma Bouvier"
+        }
+      },
+      { "data": { "weight": 1, "source": "Morty Szyslak", "target": "Milo" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Morty Szyslak",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gautama Buddha",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gautama Buddha",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gautama Buddha",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Gautama Buddha", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gautama Buddha",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Gautama Buddha",
+          "target": "Apu Nahasapeemapetilon"
+        }
+      },
+      {
+        "data": {
+          "weight": 3,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Patty Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Maya"
+        }
+      },
+      {
+        "data": {
+          "weight": 2,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Rainier Wolfcastle"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "God"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Apu Nahasapeemapetilon",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 4,
+          "source": "Patty Bouvier",
+          "target": "Selma Bouvier"
+        }
+      },
+      { "data": { "weight": 1, "source": "Patty Bouvier", "target": "Milo" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 4,
+          "source": "Patty Bouvier",
+          "target": "Homer Simpson"
+        }
+      },
+      { "data": { "weight": 1, "source": "Patty Bouvier", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Carl Carlson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Patty Bouvier",
+          "target": "Kirk Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rainier Wolfcastle",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rainier Wolfcastle",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": { "weight": 1, "source": "Rainier Wolfcastle", "target": "God" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Rainier Wolfcastle",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Van Houten",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": { "weight": 1, "source": "Kirk Van Houten", "target": "Maya" }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Van Houten",
+          "target": "Selma Bouvier"
+        }
+      },
+      { "data": { "weight": 1, "source": "Milo", "target": "Homer Simpson" } },
+      { "data": { "weight": 1, "source": "Milo", "target": "Selma Bouvier" } },
+      { "data": { "weight": 1, "source": "Milo", "target": "Strawberry" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Lenny Leonard"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Carl Carlson",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Doug (nerd)",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Doug (nerd)",
+          "target": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Doug (nerd)",
+          "target": "Benjamin (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Julius Hibbert"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Lenny Leonard",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Simpson",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Simpson",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Simpson",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Kirk Simpson",
+          "target": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Julius Hibbert",
+          "target": "Homer Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Julius Hibbert",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Julius Hibbert",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Julius Hibbert",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Julius Hibbert",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Sam (barfly)"
+        }
+      },
+      {
+        "data": {
+          "weight": 4,
+          "source": "Homer Simpson",
+          "target": "Selma Bouvier"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Benjamin (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      { "data": { "weight": 1, "source": "Homer Simpson", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Springfield Angry Mob"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Picard Simpson"
+        }
+      },
+      { "data": { "weight": 1, "source": "Homer Simpson", "target": "God" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Homer Simpson",
+          "target": "Larry (barfly)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Springfield Angry Mob",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Springfield Angry Mob",
+          "target": "Picard Simpson"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Picard Simpson",
+          "target": "Hedonismbot"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Selma Bouvier",
+          "target": "Mrs. Smithers"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Selma Bouvier",
+          "target": "Strawberry"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Selma Bouvier",
+          "target": "Blue-Haired Lawyer"
+        }
+      },
+      { "data": { "weight": 1, "source": "Selma Bouvier", "target": "Maya" } },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Selma Bouvier",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Selma Bouvier",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Mrs. Smithers",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Mrs. Smithers",
+          "target": "Clancy Wiggum"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Clancy Wiggum",
+          "target": "Robert Terwilliger"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "God",
+          "target": "Milhouse Van Houten"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "God",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Benjamin (nerd)",
+          "target": "Gary (nerd)"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Milhouse Van Houten",
+          "target": "\u00dcter Z\u00f6rker"
+        }
+      },
+      {
+        "data": {
+          "weight": 1,
+          "source": "Sam (barfly)",
+          "target": "Larry (barfly)"
+        }
+      }
+    ]
+  }
+}
