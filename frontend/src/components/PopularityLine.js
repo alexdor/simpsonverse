@@ -6,7 +6,23 @@ import popularity from "../data/popularity.json";
 import { customStyles, options } from "../helpers/helpers.js";
 
 defaults.global.animation.duration = 300;
-
+defaults.global.legend.position = "bottom";
+defaults.global.tooltips.mode = "point";
+defaults.global.tooltips.backgroundColor = "#fff";
+defaults.global.tooltips.bodyFontColor = "#000";
+defaults.global.tooltips.titleFontColor = "#000";
+const colorMap = new Map();
+const dynamicColors = value => {
+  if (colorMap.has(value)) {
+    return colorMap.get(value);
+  }
+  const r = Math.floor(Math.random() * 255);
+  const g = Math.floor(Math.random() * 255);
+  const b = Math.floor(Math.random() * 255);
+  const rgb = "rgb(" + r + "," + g + "," + b + ")";
+  colorMap.set(value, rgb);
+  return rgb;
+};
 const seasons = options.map(op => op.label);
 const popularityOptions = Object.keys(popularity).map(el => ({
   label: el,
@@ -23,42 +39,41 @@ export default class PopularityLine extends PureComponent {
         {
           label: popularityOptions[0].value,
           data: popularity[popularityOptions[0].value],
-          borderWidth: 1
+          borderWidth: 1,
+          fill: false,
+          borderColor: dynamicColors(popularityOptions[0].value)
         }
       ]
     }
   };
 
-  handlePopChange = selectedPopOption => {
-    if (selectedPopOption.value) {
-      if (
-        (this.state.selectedPopOption || {}).value !== selectedPopOption.value
-      ) {
-        this.setState(state => ({
-          data: {
-            labels: state.data.labels,
-            datasets: [
-              {
-                ...state.data.datasets[0],
-                data: popularity[selectedPopOption.value],
-                label: selectedPopOption.value
-              }
-            ]
-          },
-          selectedPopOption
-        }));
-      }
-    }
+  handlePopChange = (selectedPopOption = []) => {
+    this.setState(state => ({
+      data: {
+        labels: state.data.labels,
+        datasets: selectedPopOption.map(opt => ({
+          borderWidth: 1,
+          data: popularity[opt.value],
+          label: opt.value,
+          fill: false,
+          borderColor: dynamicColors(opt.value)
+        }))
+      },
+      selectedPopOption
+    }));
   };
+
   render() {
     const { selectedPopOption, data } = this.state;
     return (
       <div className="mx-4">
         <h4 className="d-flex justify-content-center mx-auto">
-          Select a character to view his popularity across the seasons
+          Select one or more characters to view their popularity across the
+          seasons
         </h4>
         <Select
           isSearchable
+          isMulti
           styles={customStyles}
           value={selectedPopOption}
           onChange={this.handlePopChange}
