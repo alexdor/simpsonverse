@@ -2,6 +2,8 @@
 #root {
   height: 100vh; //100% view height
   width: 100vw;
+
+  overflow-x: hidden;
 }
 .navbar,
 .section {

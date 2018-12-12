@@ -53,7 +53,7 @@ export default class PopularityLine extends PureComponent {
   render() {
     const { selectedPopOption, data } = this.state;
     return (
-      <div>
+      <div className="mx-4">
         <h4 className="d-flex justify-content-center mx-auto">
           Select a character to view his popularity across the seasons
         </h4>

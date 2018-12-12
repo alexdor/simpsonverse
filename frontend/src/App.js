@@ -1,14 +1,10 @@
 import "./App.scss";
-import "react-s-alert/dist/s-alert-css-effects/slide.css";
-import "react-s-alert/dist/s-alert-default.css";
 
 import React, { lazy, PureComponent, StrictMode, Suspense } from "react";
-import Alert from "react-s-alert";
 
 import SectionHeader from "./components/SectionHeader";
 import Spinner from "./components/Spinner";
 import TopBar from "./components/TopBar";
-import { showError } from "./helpers/alerts";
 
 const sections = [
   {
@@ -30,13 +26,8 @@ const sections = [
     Component: lazy(() => import("./sections/WordClouds")),
     title: "Word Clouds",
     subtitle:
-<<<<<<< HEAD
       "When The Simpsons is mentioned in conversation, yellow people and funny lines come to mind. To catch the most iconic quotes from each character and present them in a pleasing fashion, we created some word clouds for you enjoyment! Check out the word clouds we generated for the Simpsons family!"
-    },
-=======
-      "When the Simpsons is mentioned in conversation, yellow people and funny lines come to mind. To catch the most iconic quotes from each character and present them in a pleasing fashion, we created some word clouds for you enjoyment! Check out the word clouds we generated for the Simpsons!"
   },
->>>>>>> feat: Add nav scrolling
   {
     key: "SentimentAnalysis",
     Component: lazy(() => import("./sections/SentimentAnalysis")),
@@ -47,12 +38,6 @@ const sections = [
 ];
 
 class App extends PureComponent {
-  componentDidCatch = e => {
-    this.setState({ loading: false });
-    showError("There was an error");
-    console.error(e);
-  };
-
   render() {
     return [
       <TopBar key="topbar" />,
@@ -72,7 +57,17 @@ class App extends PureComponent {
           ))}
         </StrictMode>
       </div>,
-      <Alert key="alert" stack={{ limit: 3 }} />
+      <h2 className="my-5 text-center" key="forg">
+        Don{"'"}t forget to check our python notebook for more info, you can
+        find it{" "}
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://nbviewer.jupyter.org/github/alexdor/simpsonverse/blob/master/Final%20Project.ipynb"
+        >
+          here
+        </a>
+      </h2>
     ];
   }
 }
